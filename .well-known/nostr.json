@@ -1,9 +1,9 @@
 {
   "names": {
-    "polymarket-dvm": "0dffb4f249d4fe1c56c364be2c01c8032cc6bcbbd90811af62c38057ed88ce01"
+    "polymarket-dvm": "fd915ee7ddd093ca99e52b84d9af1cfacf1ad53942a8ea0ff12e3d66b60b499f"
   },
   "relays": {
-    "0dffb4f249d4fe1c56c364be2c01c8032cc6bcbbd90811af62c38057ed88ce01": [
+    "fd915ee7ddd093ca99e52b84d9af1cfacf1ad53942a8ea0ff12e3d66b60b499f": [
       "wss://nos.lol",
       "wss://relay.primal.net",
       "wss://relay.damus.io",
