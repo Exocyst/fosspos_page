@@ -1,0 +1,13 @@
+{
+  "names": {
+    "polymarket-dvm": "0dffb4f249d4fe1c56c364be2c01c8032cc6bcbbd90811af62c38057ed88ce01"
+  },
+  "relays": {
+    "0dffb4f249d4fe1c56c364be2c01c8032cc6bcbbd90811af62c38057ed88ce01": [
+      "wss://nos.lol",
+      "wss://relay.primal.net",
+      "wss://relay.damus.io",
+      "wss://nostr.band" 
+    ]
+  }
+}
