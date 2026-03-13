@@ -5,5 +5,5 @@
      "metadata": "[[\"text/plain\", \"Zap for decador\"], [\"text/identifier\", \"groups@fosspos.com\"]]",
      "tag": "payRequest",
      "allowsNostr": true,
-     "nostrPubkey": "<YOUR_AGENT_HEX_PUBKEY>"
+     "nostrPubkey": "1245f55b4525067dd48b1dfd92f63feb5e28a8978256ad747ef2bb1e2f22cf70"
    }
