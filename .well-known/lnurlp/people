@@ -1,0 +1,9 @@
+   {
+     "callback": "https://pay.fosspos.com/.well-known/lnurlp/polymarket-dvm/callback",
+     "maxSendable": 100000000,
+     "minSendable": 1000,
+     "metadata": "[[\"text/plain\", \"Zap for decador\"], [\"text/identifier\", \"decador@fosspos.com\"]]",
+     "tag": "payRequest",
+     "allowsNostr": true,
+     "nostrPubkey": "3ee1a13899456a829714a8685309dc1ee89f86bcf7669c1a245b562612b60ea5"
+   }
